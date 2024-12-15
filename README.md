@@ -105,7 +105,7 @@ The primary goals of this project are:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd brazilian-ecommerce-dashboard
+   cd e-commerce-dashboard
    ```
 3. Install the required dependencies:
    ```bash
